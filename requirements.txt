@@ -1,0 +1,3 @@
+# Runtime: Python standard library only (tkinter ships with Python on Windows).
+# Build-time only:
+pyinstaller>=6.0
